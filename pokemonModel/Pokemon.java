@@ -10,7 +10,8 @@ public abstract class Pokemon
 	
 	public Pokemon(String name, int number)
 	{
-		
+		this.name = name;
+		this.number = number;
 	}
 	public String getPokemonTypes()
 	{
