@@ -1,6 +1,6 @@
 package pokemonModel;
 
-public class Fighting
+public interface Fighting
 {
 
 }

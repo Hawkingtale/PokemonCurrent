@@ -1,6 +1,6 @@
 package pokemonModel;
 
-public class Steel
+public interface Steel
 {
 
 }

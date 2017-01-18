@@ -1,6 +1,6 @@
 package pokemonModel;
 
-public class Dragon
+public interface Dragon
 {
 
 }

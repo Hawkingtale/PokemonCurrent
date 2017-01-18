@@ -5,7 +5,7 @@ public class Gallade extends Pokemon implements Psychic, Fighting
 
 	public Gallade()
 	{
-		super("Gallade" 475);
+		super("Gallade", 475);
 	}
 	
 	public Gallade(String name)

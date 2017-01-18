@@ -1,6 +1,6 @@
 package pokemonModel;
 
-public class Psychic
+public interface Psychic
 {
 
 }

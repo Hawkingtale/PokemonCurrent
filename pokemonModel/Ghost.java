@@ -1,6 +1,6 @@
 package pokemonModel;
 
-public class Ghost
+public interface Ghost
 {
 
 }

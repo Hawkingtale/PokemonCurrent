@@ -1,6 +1,6 @@
 package pokemonModel;
 
-public class Ground
+public interface Ground
 {
 
 }

@@ -5,7 +5,7 @@ public class Aegislash extends Pokemon implements Steel, Ghost
 
 	public Aegislash()
 	{
-		super("Aegislash", 681)
+		super("Aegislash", 681);
 	}
 	
 	public Aegislash(String name)
